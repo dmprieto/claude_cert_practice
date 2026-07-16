@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "node18",
+    "moduleResolution": "node16",
+    "outDir": "dist",
+    "rootDir": "src",
+    "target": "es2017"
+  },
+  "exclude": ["dist", "node_modules"]
+}

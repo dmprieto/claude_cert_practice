@@ -8,3 +8,8 @@ Start example 'Your first API call'
 
 Steps to start example 'Agent loop'
 - npx tsx src\agent-loop-test.ts
+
+Examples created in colaboration with Claude Code
+
+Steps to start example 'Escalation decision engine'
+- npx tsx src\escalation-engine\index.ts
